@@ -1,0 +1,18 @@
+
+.headerDiv{
+    height: 10%;
+    width: 100%;
+    background-color: aqua;
+  }
+  
+  .bodyDiv{
+    height: 85%;
+    width: 100%;
+    background-color: aqua;
+  }
+  
+  .footerDiv{
+    height: 5%;
+    width: 100%;
+    background-color: aqua;
+  }
